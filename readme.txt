@@ -1,0 +1,1 @@
+If pulling from git, use Starter.java as the main class to run the program.
